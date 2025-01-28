@@ -6,6 +6,7 @@ import time
 import base64
 import requests
 import os
+import json
 
 # Lê a planiha Conformidade Legal 
 #(https://docs.google.com/spreadsheets/d/1_teMusgzqisvbbL3TOONcjJSBibTTae5AIKp-oeceQg/edit?gid=0#gid=0)
