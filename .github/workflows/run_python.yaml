@@ -21,14 +21,14 @@ jobs:
 
       - name: Run Python Script
         run: 
-          python  pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org pandas
-          python  pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org numpy
-          python  pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org time
-          python  pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org base64
-          python  pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org requests
-          python  pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org os
-          python  pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org google-auth
-          python pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org google-api-python-client
+          python  -m pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org pandas
+          python -m pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org numpy
+          python -m pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org time
+          python  -m pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org base64
+          python  -m pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org requests
+          python -m pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org os
+          python -m pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org google-auth
+          python -m pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org google-api-python-client
           python conformidade-links-allweb.py
     
     
