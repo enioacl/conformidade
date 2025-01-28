@@ -17,7 +17,8 @@ import os
 # à quantidade de requisições (Erro: Too many requests).
 
 # Caminho para o arquivo de credenciais
-SERVICE_ACCOUNT_FILE = "C:\\Arquivos\\Documents\\GOOGLESHEETS_TOKEN.json"
+#SERVICE_ACCOUNT_FILE = "C:\\Arquivos\\Documents\\GOOGLESHEETS_TOKEN.json"
+SERVICE_ACCOUNT_FILE = os.environ["google_sheets_id"]
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
 SHEET_ID = "1_teMusgzqisvbbL3TOONcjJSBibTTae5AIKp-oeceQg"
 
@@ -148,7 +149,8 @@ repo_owner = "enioacl"  # Nome do usuário ou organização
 repo_name = "conformidade"  # Nome do repositório
 branch = "main"
 base_api_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/contents/"
-token = os.getenv('GITHUB_TOKEN')
+#token = os.getenv('GITHUB_TOKEN')
+token = os.environ["github_id"]
 if token is None:
     print("Token do GitHub não encontrado!")
 else:
