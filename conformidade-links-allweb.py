@@ -126,7 +126,7 @@ for index, sheet_id_item in enumerate(SHEET_IDS_ITENS):
         print(f"Erro ao processar a planilha {sheet_id_item}: {e}")
 
 base_transposta = base_transposta.drop(['Carimbo de data/hora','Comentário / Evidências',
-                                       'Comentário/Evidência'], axis=0)
+                                       'Comentário/Evidência','Comentário/Evidências','Evidência/Comentários'], axis=0)
 # Criar uma máscara para identificar as linhas que contêm as expressões
 masc=~base_transposta.index.str.contains(r"evidência do cumprimento",case=False,na=False)
 base_transposta=base_transposta[masc]
