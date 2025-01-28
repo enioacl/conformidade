@@ -1,6 +1,8 @@
 
 name: Run Python Script
 on: 
+  push:
+    branches: master
   workflow_dispatch:
 env:
   google_sheets_id: ${{secrets.GOOGLE_SHEETS_TOKEN}}
