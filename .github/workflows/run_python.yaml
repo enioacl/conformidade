@@ -20,7 +20,7 @@ jobs:
           python-version: '3.11'
 
       - name: Run Python Script
-        run: 
+        run: |
           python  -m pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org pandas
           python -m pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org numpy
           python -m pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org time
