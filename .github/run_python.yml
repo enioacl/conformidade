@@ -27,6 +27,6 @@ jobs:
           python  !pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org os
           python  !pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org google-auth
           python !pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org google-api-python-client
-          python conformidade-links-allweb.ipynb
+          python conformidade-links-allweb.py
     
     
