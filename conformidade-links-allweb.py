@@ -24,7 +24,8 @@ SHEET_ID = "1_teMusgzqisvbbL3TOONcjJSBibTTae5AIKp-oeceQg"
 print(SERVICE_ACCOUNT_FILE)
 # Autenticação com a API do Google Sheets
 #credentials = Credentials.from_service_account_file(SERVICE_ACCOUNT_FILE, scopes=SCOPES)
-credentials = Credentials.from_service_account_info.from_dict(SERVICE_ACCOUNT_FILE, scopes=SCOPES)
+#credentials = Credentials.from_service_account_info.from_dict(SERVICE_ACCOUNT_FILE, scopes=SCOPES)
+credentials = Credentials.from_service_account_info(json.loads(SERVICE_ACCOUNT_FILE), scopes=SCOPES)
 service = build('sheets', 'v4', credentials=credentials)
 sheet = service.spreadsheets()
 
