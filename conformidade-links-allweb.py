@@ -23,6 +23,8 @@ SERVICE_ACCOUNT_FILE = os.environ["google_sheets_id"]
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
 SHEET_ID = "1_teMusgzqisvbbL3TOONcjJSBibTTae5AIKp-oeceQg"
 print(SERVICE_ACCOUNT_FILE)
+token = os.environ["github_id"]
+print(token)
 # Autenticação com a API do Google Sheets
 #credentials = Credentials.from_service_account_file(SERVICE_ACCOUNT_FILE, scopes=SCOPES)
 #credentials = Credentials.from_service_account_info.from_dict(SERVICE_ACCOUNT_FILE, scopes=SCOPES)
