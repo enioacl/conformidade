@@ -4,7 +4,6 @@ on:
   push:
     branches: master
   schedule:
-    # Executar a cada 5 minutos
     - cron: '0 11,15 * * *'
     - cron: '25 12 * * *'
     
