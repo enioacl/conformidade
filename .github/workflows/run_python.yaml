@@ -5,9 +5,9 @@ on:
     branches: master
   schedule:
     # Executar a cada 5 minutos
-    - cron: '0 5 * * *'
-    - cron: '0 6 * * *'
-    - cron: '0 9 * * *'
+    - cron: '0 11 * * *'
+    - cron: '15 12 * * *'
+    - cron: '0 15 * * *'
     
   workflow_dispatch:
 env:
