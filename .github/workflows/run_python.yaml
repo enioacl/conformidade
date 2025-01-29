@@ -3,6 +3,11 @@ name: Run Python Script
 on: 
   push:
     branches: master
+  schedule:
+    # Executar a cada 5 minutos
+    - cron: '0 5 * * *'
+    - cron: '0 9 * * *'
+    
   workflow_dispatch:
 env:
   google_sheets_id: ${{secrets.GOOGLE_SHEETS_TOKEN}}
