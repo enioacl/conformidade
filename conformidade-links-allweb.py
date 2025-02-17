@@ -41,7 +41,7 @@ dados = pd.DataFrame()
 
 # Iterar por cada aba e extrair os dados, ignorando a aba "Dados"
 for sheet_name in sheet_names:
-    if sheet_name == "Dados":
+    if sheet_name == "Dados" or sheet_name == "VERTICALIZADA":
         continue  # Ignora a aba "Dados"
     
     RANGE = f"{sheet_name}!A1:R1000"  # Ajuste o intervalo conforme necessário
