@@ -5315,6 +5315,19 @@ V – revisar e aprovar Metas Nacionais, Metas Específicas e Diretrizes Estrat�
 Art. 19. Os casos omissos serão resolvidos pelo Presidente do CNJ
 
 Art. 20. Esta Resolução entra em vigor em 1o de janeiro de 2021, ficando revogada, a partir desta data, a Resolução CNJ no 198, de 1o de julho de 2014.",Não é item de conformidade,Resolução nº 325/2020 - CNJ,CNJ,Secretaria de Governança e Gestão Estratégica
+" Art. 1º Determinar a inclusão do campo/espaço Estatística na página principal dos sítios eletrônicos dos órgãos do Poder Judiciário indicados nos incisos I-A a IV, VI e VII do art. 92 da Constituição Federal, com vistas a reunir dados abertos, Painéis de Business Intelligence e Relatórios Estatísticos referentes à atividade-fim do Poder Judiciário.",Sim,Resolução nº 333/2020 - CNJ,CNJ,Secretaria de Governança e Gestão Estratégica
+"Art. 2º Para os fins desta Resolução, considera-se:
+I – dados abertos referentes à atividade-fim do Poder Judiciário: dados processuais produzidos ou acumulados pelo Poder Judiciário, não sigilosos, cadastrados segundo as Tabelas Processuais Unificadas – TPUs, criadas pela Resolução CNJ no 46/2007, representados em meio digital, estruturados em formato aberto, processáveis por máquina, referenciados na internet e disponibilizados sob licença aberta que permite sua livre utilização, consumo ou cruzamento
+ II – painéis: forma de apresentação de métricas e indicadores que possibilite ao usuário a realização de consultas dinâmicas e interativas; e
+III – plataforma: ambiente de experiência digital que permite conexão, interação, cooperação, facilidade de comunicação e relacionamento com o público, racionalização de recursos, economicidade e incentivo à virtualização.",Não é item de conformidade,Resolução nº 333/2020 - CNJ,CNJ,Secretaria de Governança e Gestão Estratégica
+"Art. 3º Os Painéis de Business Intelligence e os Relatórios Estatísticos referentes à atividade-fim do Poder Judiciário que formarão o conteúdo mínimo do campo/espaço denominado Estatística, nos termos do art. 1o , serão desenvolvidos e disponibilizados pelo Conselho Nacional de Justiça.
+Parágrafo único. Os órgãos do Poder Judiciário abrangidos por esta Resolução poderão produzir informações adicionais para disponibilização ao público no campo/espaço denominado Estatística, por meio de painéis ou plataformas.    ",Não é item de conformidade,Resolução nº 333/2020 - CNJ,CNJ,Secretaria de Governança e Gestão Estratégica
+"Art. 4º As Comissões Permanentes de Gestão Estratégica, Estatística e Orçamento e de Acompanhamento dos Objetivos de Desenvolvimento Sustentável e da Agenda 2030 do CNJ definirão, no prazo de sessenta dias, o conteúdo e o padrão dos painéis a serem disponibilizados.
+Parágrafo único. A Comissão Permanente de Tecnologia da Informação e Inovação, a Secretaria Especial de Programas, Pesquisas e Gestão Estratégica e o Departamento de Pesquisas Judiciárias prestarão o apoio necessário no planejamento e na gestão das atividades previstas no caput.",Não é item de conformidade,Resolução nº 333/2020 - CNJ,CNJ,Secretaria de Governança e Gestão Estratégica
+" Art. 4º É facultativa a instituição de plano estratégico de segmento de justiça, observado o disposto no art. 3º , sem prejuízo da obrigatoriedade da instituição de plano estratégico do tribunal e do conselho de justiça. ",Não é item de conformidade,Resolução nº 333/2020 - CNJ,CNJ,Secretaria de Governança e Gestão Estratégica
+"Art. 5º Aplicam-se, subsidiariamente, a esta Resolução, os preceitos da Política de Dados Abertos do Poder Executivo federal, instituída pelo Decreto no 8.777/2016.
+Art. 6º Os tribunais implementarão as condições previstas nesta Resolução no prazo de noventa dias.
+Art. 7º Esta Resolução entra em vigor na data de sua publicação.   ",Não é item de conformidade,Resolução nº 333/2020 - CNJ,CNJ,Secretaria de Governança e Gestão Estratégica
 Art. 1º O pagamento do auxílio-moradia aos magistrados da Justiça do Trabalho de primeiro e segundo graus fica regulamentado por esta Resolução.  ,Não é item de conformidade,Resolução nº 231/2019 - CSJT,CSJT,Secretaria Geral da Presidência
 "Art. 2º A concessão do auxílio-moradia fica condicionada ao atendimento cumulativo das seguintes condições:
 
@@ -5445,26 +5458,6 @@ Art. 13. Cabem aos Tribunais Regionais do Trabalho providenciar a dotação orç
 
   Parágrafo único. Na concretização dos trabalhos de gestão documental, quer quanto à guarda, quer quanto à eliminação, deve ser observado o disposto no Ato Conjunto CSJT.GP.CGJT nº 01, de 14 de fevereiro de 2019.  ",Sim,Resolução nº 235/2019 - CSJT,CSJT,Secretaria Geral da Presidência
 Art. 15. Esta Resolução entra em vigor na data de sua publicação. ,Não é item de conformidade,Resolução nº 235/2019 - CSJT,CSJT,Secretaria Geral da Presidência
-Art. 1º A instituição financeira responsável pela gestão dos recursos destinados ao pagamento de Precatórios e de Requisições de Pequeno Valor (RPV) cientificará mensalmente o Presidente do Tribunal Regional do Trabalho acerca dos valores cancelados no âmbito de sua jurisdição e transferidos para a Conta Única do Tesouro Nacional.  ,Não é item de conformidade,Resolução nº 248/2019 - CSJT,CSJT,Secretaria Geral da Presidência
-"Art. 2º Após ciência, o Presidente do Tribunal deverá comunicar: 
-I – ao juízo de execução, que deverá notificar o credor acerca do cancelamento realizado;  
-(...)",Sim,Resolução nº 248/2019 - CSJT,CSJT,Secretaria Geral da Presidência
-"Art. 2º Após ciência, o Presidente do Tribunal deverá comunicar: 
-(...)
-II – à área contábil do Tribunal, para que efetive os registros necessários ao acompanhamento sistemático dos cancelamentos de que trata o artigo 1º, bem como fiscalize a transferência à Conta Única do Tesouro Nacional dos valores informados pelas instituições financeiras oficiais. 
-(...)",Sim,Resolução nº 248/2019 - CSJT,CSJT,Secretaria Geral da Presidência
-"Art. 2º Após ciência, o Presidente do Tribunal deverá comunicar: 
-(...)
-§ 1º A requerimento do credor, poderá o juiz da execução expedir novo ofício requisitório para a recomposição do saldo cancelado à respectiva conta judicial, mediante a liberação dos recursos específicos. 
-(...)",Não é item de conformidade,Resolução nº 248/2019 - CSJT,CSJT,Secretaria Geral da Presidência
-"Art. 2º Após ciência, o Presidente do Tribunal deverá comunicar: 
-(...)
-§ 2º O cancelamento não poderá ser realizado pela instituição financeira caso haja determinação judicial em sentido contrário. 
-(...)",Não é item de conformidade,Resolução nº 248/2019 - CSJT,CSJT,Secretaria Geral da Presidência
-"Art. 2º Após ciência, o Presidente do Tribunal deverá comunicar: 
-(...)
-§ 3º Havendo requerimento do credor para a expedição de nova requisição de pagamento, será observada a ordem cronológica originária do novo Precatório ou nova Requisição de Pequeno Valor (RPV) e a remuneração correspondente a todo o período.",Não é item de conformidade,Resolução nº 248/2019 - CSJT,CSJT,Secretaria Geral da Presidência
-Art. 3º Esta Resolução entra em vigor na data de sua publicação.  ,Não é item de conformidade,Resolução nº 248/2019 - CSJT,CSJT,Secretaria Geral da Presidência
 "Art. 1º Os Tribunais Regionais do Trabalho promoverão:
 I – o acesso de pessoas surdas ou com deficiência auditiva, de forma segura e autônoma, aos espaços, informações e comunicações, inclusive aos seus portais, sítios eletrônicos e aplicativos para dispositivos móveis; e
 (...)",Não,Resolução nº 218/2018 - CSJT,CSJT,Secretaria Geral da Presidência
